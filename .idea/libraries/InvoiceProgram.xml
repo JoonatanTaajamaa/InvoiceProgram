@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="InvoiceProgram">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/artifacts/InvoiceProgram_jar/InvoiceProgram.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
